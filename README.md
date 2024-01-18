@@ -5,7 +5,7 @@
 
 Informational site for HTRC’s 2024 TORCHLITE Hackathon event.
 
-The Tools for Open Research and Computation with HathiTrust: Leveraging Intelligent Text Extraction (TORCHLITE) project is generously funded by the U.S. National Endowment for the Humanities in 2021. <sup id="a1">[1](#f1)</sup>
+The Tools for Open Research and Computation with HathiTrust: Leveraging Intelligent Text Extraction (TORCHLITE) project is generously funded by the U.S. National Endowment for the Humanities. <sup id="a1">[1](#f1)</sup>
 
 ---
 
