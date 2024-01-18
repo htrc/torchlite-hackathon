@@ -1,7 +1,3 @@
-<style type="text/css">
-a {text-decoration: none;}
-</style>
-  
 # TORCHLITE Hackathon 
 ## 21-23 May 2024
 ### Hosted by the HathiTrust Research Center
