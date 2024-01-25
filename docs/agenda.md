@@ -1,5 +1,8 @@
 TORCHLITE Hackathon Agenda (**DRAFT**)
 
+# Events to be scheduled
+- Keynote(s)?
+
 # Day 1 (noon-5)
 
 - Welcome (John)
