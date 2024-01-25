@@ -1,5 +1,10 @@
 TORCHLITE Hackathon Agenda (**DRAFT**)
 
+**Note: ** Prepare written documentation and video tutorials and share in advance to reduce tutorial time at Hackathon. 
+
+
+
+
 # Events to be scheduled
 - Keynote(s)?
 
@@ -10,13 +15,15 @@ TORCHLITE Hackathon Agenda (**DRAFT**)
 - EF Session (Janet/Ryan)
 - API Session (?)
 - How to Build a Widget (Pooja/Sriram) (Day 2?)
+- Wrap up, looking ahead to Day 2
 
 # Day 2 (8/9-5)
 
 - Welcome, logistics
 - hacking
-- Reporting
+- Preliminary Reporting 
 
 # Day 3 (8/9-noon)
 
-- 
+- Reporting 
+
