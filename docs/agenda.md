@@ -10,12 +10,14 @@ TORCHLITE Hackathon Agenda (**DRAFT**)
 
 # Day 1 (noon-5)
 
-- Welcome (John)
-- TORCHLITE/Dashboard Intro Demo (?)
-- EF Session (Janet/Ryan)
-- API Session (?)
-- How to Build a Widget (Pooja/Sriram) (Day 2?)
-- Wrap up, looking ahead to Day 2
+- Welcome () TORCHLITE/Dashboard Intro Demo (?) (20 minutes)
+- Keynote () 1 hr.
+- EF Session (Janet/Ryan), 1 hour
+- API/Widgets/Notebook summary and Q&A (90-120 minutes)
+- Brainstorming (optional if previous session, ends early)
+- Wrap up, looking ahead to Day 2 (15-20 minutes)
+
+- Need to schedule food/coffee breaks.
 
 # Day 2 (8/9-5)
 
