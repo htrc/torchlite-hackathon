@@ -11,3 +11,5 @@ The TORCHLITE Hackathon, hosted by HTRC at the University of Illinois at Urbana-
 ---
 <span style="font-size:12px;"><sup id="f1">1</sup> The TORCHLITE is generously funded by the U.S. National Endowment for the Humanities ( Grant no. HAA-284850-22). Views, findings, conclusions, and recommendations expressed in this article do not
 necessarily represent those of the National Endowment for the Humanities. [↩](#a1)</span>
+
+{% include footer.html %}
