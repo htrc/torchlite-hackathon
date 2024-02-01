@@ -15,4 +15,4 @@ Those interested in participating can apply by completing this form by **March 1
 
 Applicants will be notified of their selection by March 15th. Any questions regarding the Hackathon logistics or about applying can be directed to htrc-help@hathitrust.org.
  
-The “Tools for Open Research and Computation with HathiTrust: Leveraging Intelligent Text Extraction (TORCHLITE)” project is generously funded by the U.S. National Endowment for the Humanities, Grant no. HAA-284850-22.
+{% include footer.html %}
