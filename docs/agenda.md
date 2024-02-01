@@ -29,3 +29,4 @@ TORCHLITE Hackathon Agenda (**DRAFT**)
 
 - Reporting 
 
+{% include footer.html %}
