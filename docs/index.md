@@ -9,7 +9,7 @@ The Tools for Open Research and Computation with HathiTrust: Leveraging Intellig
 The TORCHLITE Hackathon, hosted by HTRC at the University of Illinois at Urbana-Champaign, will bring together scholars, practitioners, and developers to brainstorm and develop new visualizations, notebooks, and other tools that make utilize the TORCHLITE APIs and EF data.
 
 ---
-<span style="font-size:12px;"><sup id="f1">1</sup> The TORCHLITE is generously funded by the U.S. National Endowment for the Humanities ( Grant no. HAA-284850-22). Views, findings, conclusions, and recommendations expressed in this article do not
+<span style="font-size:12px;"><sup id="f1">1</sup> The TORCHLITE project is generously funded by the U.S. National Endowment for the Humanities (Grant no. HAA-284850-22). Views, findings, conclusions, and recommendations expressed in this article do not
 necessarily represent those of the National Endowment for the Humanities. [↩](#a1)</span>
 
 {% include footer.html %}
