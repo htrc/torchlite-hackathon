@@ -11,8 +11,8 @@ The TORCHLITE project leverages HTRC’s new Extracted Features API. The Extract
 
 We’re looking for both programmers and subject matter experts in the humanities, social sciences, and other disciplines who are interested in developing new data visualizations, Jupyter notebooks, applications, and other creative applications of the Extracted Features API!
 
-Those interested in participating can apply by completing this form by **March 1st**: https://forms.gle/XgVj4nUsBWYnQmqEA
+Those interested in participating can apply by completing this form by **March 1st**: <https://forms.gle/XgVj4nUsBWYnQmqEA>
 
-Applicants will be notified of their selection by March 15th. Any questions regarding the Hackathon logistics or about applying can be directed to htrc-help@hathitrust.org.
+Applicants will be notified of their selection by March 15th. Any questions regarding the Hackathon logistics or about applying can be directed to [htrc-help@hathitrust.org](mailto:htrc-help@hathitrust.org).
  
 {% include footer.html %}
