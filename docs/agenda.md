@@ -1,10 +1,12 @@
 {% include header.html %}
 
-TORCHLITE Hackathon Agenda (**DRAFT**)
+# TORCHLITE Hackathon Agenda (**DRAFT**)
 
 **Note: ** Prepare written documentation and video tutorials and share in advance to reduce tutorial time at Hackathon. 
 
-# Day 1 (noon-5)
+**Central Standard Time** 
+
+# Tuesday, May 21, 2024 (noon-5pm)
 
 12:00 - 12:30 Welcome. TORCHLITE/Dashboard Introduction & Demo  (20 minutes)  
 12:30 - 1:30 Keynote   
@@ -15,7 +17,7 @@ TORCHLITE Hackathon Agenda (**DRAFT**)
 4:30 - 5:00 Wrap up, logitistics for Day 2   
 
 
-# Day 2 (8/9-5)
+# Wednesday, May 22, 2024 (8am-5pm)
 
 - Welcome, logistics
 - hacking
@@ -23,7 +25,7 @@ TORCHLITE Hackathon Agenda (**DRAFT**)
 - hacking
 - Preliminary Reporting 
 
-# Day 3 (8/9-noon)
+# Thursday, May 23, 2024 (8am-noon)
 
 - Hacking
 - Reporting
