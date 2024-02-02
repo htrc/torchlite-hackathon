@@ -1,6 +1,6 @@
 {% include header.html %}
 
-TORCHLITE Hackathon documentation and demos (**DRAFT**)
+# TORCHLITE Hackathon documentation and demos (**DRAFT**)
 
 * <a href="https://htrc.stoplight.io/docs/torchlite/8xpvh96ani2e0-torchlite">EF API documentation</a>
 * <a href="https://observablehq.com/@jswatsch/torchlite-ef-api">API demo</a>
