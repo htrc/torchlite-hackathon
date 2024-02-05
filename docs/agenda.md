@@ -14,7 +14,7 @@
 2:00 - 3:00 EF Session (Janet/Ryan), 1 hour  
 3:00 - 3:15 Break   
 3:15 - 4:30 API/Widgets/Notebook summary and Q&A (90-120 minutes)   
-4:30 - 5:00 Wrap up, logitistics for Day 2   
+4:30 - 5:00 Wrap up, logistics for Day 2   
 
 
 # Wednesday, May 22, 2024 (8am-5pm)
