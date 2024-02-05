@@ -2,7 +2,7 @@
 
 # TORCHLITE Hackathon Agenda (**DRAFT**)
 
-**Note:** Early-stage [./documentation|documentation] and tutorials will be shared in advance of the Hackathon.
+**Note:** Early-stage [documentation](./documentation) and sample widgets are available now. Detailed tutorials will be shared in advance of the Hackathon.
 
 **Central Standard Time** 
 
