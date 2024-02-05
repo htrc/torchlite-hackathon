@@ -8,13 +8,13 @@
 
 # Tuesday, May 21, 2024 (noon-5pm)
 
-**12:00 - 12:30:** Welcome. TORCHLITE dashboard and widgets: introduction & demo  (30 minutes)  
-**12:30 - 1:30:** Keynote (TBD)
+**12:00 - 12:30:** Welcome. TORCHLITE dashboard and widgets: introduction & demo   
+**12:30 - 1:30:** Keynote (TBD)  
 **1:30  - 2:00:** Break  
-**2:00 - 3:00:** Extracted Features (HTRC staff), 1 hour  
+**2:00 - 3:00:** Extracted Features (HTRC staff)
 **3:00 - 3:15:** Break   
-**3:15 - 4:30:** TORCHLITE API, widgets, and notebooks summary and Q&A (90-120 minutes)   
-**4:30 - 5:00:** Wrap up, logistics for Day 2   
+**3:15 - 4:30:** TORCHLITE API, widgets, and notebooks summary and Q&A  
+**4:30 - 5:00:** Wrap up, logistics for Day 2  
 
 
 # Wednesday, May 22, 2024 (8am-5pm)
