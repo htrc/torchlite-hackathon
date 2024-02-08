@@ -30,9 +30,9 @@ Other airport options are at least two hours away from Urbana-Champaign and will
 #### Taxi and Ride Sharing
 Taxis are available in Champaign-Urbana, and will be waiting outside Willard Airport or Illinois Terminal for trips to I Hotel or other campus locations.
 
-Both Uber and Lyft are active in Champaign-Urbana, and can provide comparable services to taxis for local transportation and to and from Illinois Terminal or Willard Airport.
+Both Uber and Lyft are active in Champaign-Urbana, and can provide comparable services to taxis for local transportation and rides to and from Illinois Terminal or Willard Airport.
 
 #### C-U MTD Buses
-The C-U MTD bus system provides buses to most locations around campus and Champaign-Urbana for $1 fares (one-way). More information, including info on fares, trips, MTD apps that support trip planning and pre-purchase of rides are availabel on the [C-U MTD website](https://mtd.org/)
+The C-U MTD bus system provides buses to most locations around campus and Champaign-Urbana for $1 fares (one-way). More information, including info on fares, trips, MTD apps that support trip planning and pre-purchase of rides, are available on the [C-U MTD website](https://mtd.org/)
 
 {% include footer.html %}
