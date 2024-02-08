@@ -26,7 +26,7 @@ Other airport options are at least two hours away from Urbana-Champaign and will
 ### By Bus or Shuttle
 [Peoria Charter](https://peoriacharter.com/) (private bus company) serves many different Chicago and Champaign-Urbana locations including both Chicago airports (O'Hare and Midway). [Greyhound](https://www.greyhound.com/bus/chicago-il) (private bus company) also provides service between Chicago and Champaign (though does not drop-off at Illinois Terminal, but an alternate location in Champaign).
 
-### Local Transportation
+## Local Transportation
 #### Taxi and Ride Sharing
 Taxis are available in Champaign-Urbana, and will be waiting outside Willard Airport or Illinois Terminal for trips to I Hotel or other campus locations.
 
