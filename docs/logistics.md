@@ -8,7 +8,7 @@
 1900 South 1st St.
 Champaign, Illinois, 61820
 
-**More details coming soon**
+*More details coming soon*
 
 ## Getting to Champaign-Urbana
 ### Airplane
@@ -21,19 +21,14 @@ Other Airport Options (the following airports are at least two hours away from U
 * Indianapolis International Airport
 
 ### Train
-AMTRAK has service between downtown Chicago and Champaign.
+[AMTRAK](https://www.amtrak.com/stations/chm.html) has service between downtown Chicago and Champaign.
 
 ### Bus/Shuttle
-The UIUC O'Hare to Urbana-Champaign Shuttle Service is currently unavailable and will be next be offered to new incoming international students arriving in Fall 2024.
+[Peoria Charter](https://peoriacharter.com/) (private bus company) serves many different Chicago and Champaign-Urbana locations including both Chicago airports (O'Hare and Midway). [Greyhound](https://www.greyhound.com/bus/chicago-il) (private bus company) also provides service between Chicago and Champaign (though does not drop-off at Illinois Terminal, but an alternate location in Champaign).
 
-Peoria Charter (private bus company) serves many different locations including both Chicago airports (O'Hare and Midway), Union Station in Chicago, and several Chicago suburbs. Pick up is available from Terminal 2 and Terminal 5 at the O'Hare International Airport with multiple drop-off points on-campus.
+### Taxi and Ride Sharing
+Taxis are available in Champaign-Urbana, and will be waiting outside Willard Airport or Illinois Terminal for trips to I Hotel or other campus locations.
 
-Greyhound (private bus company) has daily service between Chicago and Champaign. Pick up is available from downtown Chicago with drop-off at the Illinois Terminal in downtown Champaign.
-
-### Taxi
-The average cost of a taxi is $15-20 to campus from Willard Airport or the Illinois Terminal. For assistance, please ask an employee at the airport or the terminal. Be sure to agree on the cost of your cab fare before leaving for your destination.
-
-### Ride Sharing
-Both Uber and Lyft are active in Champaign-Urbana, and can provide comparable services to taxis for local transportation and to and from Illinois Terminal or Willard Airport
+Both Uber and Lyft are active in Champaign-Urbana, and can provide comparable services to taxis for local transportation and to and from Illinois Terminal or Willard Airport.
 
 {% include footer.html %}
