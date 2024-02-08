@@ -14,7 +14,7 @@ Champaign, Illinois, 61820
 ### By Air
 The [University of Illinois Willard Airport](https://iflycu.com/) (Airport Code: CMI) serves the Champaign-Urbana area.
 
-Other Airport Options (the following airports are at least two hours away from Urbana-Champaign and will require you to make additional arrangements to get to campus).
+Other airport options are at least two hours away from Urbana-Champaign and will require you to make additional arrangements to get to campus, but may have viable flights for you:
 * Chicago O’Hare International Airport
 * Chicago Midway International Airport
 * Lambert – St. Louis International Airport
