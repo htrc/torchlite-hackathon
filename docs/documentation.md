@@ -3,7 +3,7 @@
 # TORCHLITE Hackathon documentation and demos (**DRAFT**)
 
 ## API documentation
-* <a href="https://htrc.stoplight.io/docs/torchlite/8xpvh96ani2e0-torchlite">Extracted Features API</a>
+* <a href="https://htrc.stoplight.io/docs/ef-api">Extracted Features API</a>
 
 ## Extracted Features documentation
 * <a href="https://go.illinois.edu/EF20_documentation">Extracted Features documentation</a>
