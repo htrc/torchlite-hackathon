@@ -30,14 +30,15 @@ If it is not safe to address a problematic interaction directly, HTRC will addre
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an HTRC staff member. Participants asked to stop any harassing behavior are expected to comply immediately. HTRC staff members will assist affected individuals in contacting hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe to the extent possible.
 
 When making a report, the following information is useful, but not required:
--Who violated the Code of Conduct?
--Where and when did the violation occur?
--What happened?
--Who may have witnessed the violation?
--Who are you?
+- Who violated the Code of Conduct?
+- Where and when did the violation occur?
+- What happened?
+- Who may have witnessed the violation?
+- Who are you?
 
 HTRC will determine what further action may be necessary, including potentially expelling an individual from the event. A follow-up communication will be made to individuals who report being harassed.
-HTRC Staff Contact Information
+
+HTRC Staff Contact Information:
 - General Help Email: htrc-help@hathitrust.org
 - Janet Swatscheno: jswatsch@hathitrust.org; ‪Text or call: (872) 265-2149‬
 - Glen Layne-Worthey: gworthey@illinois.edu;
