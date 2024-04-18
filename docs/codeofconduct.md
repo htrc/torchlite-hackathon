@@ -11,7 +11,8 @@ We encourage everyone to:
 - Be open to listening to alternative viewpoints
 - Be generous and helpful with your own expertise and respectful of others’ expertise
 - Approach interactions with empathy, patience, understanding and a sense of humor
-- Respect the Opinions and Abilities of Others
+
+### Respect the Opinions and Abilities of Others
 
 The TORCHLITE Hackathon includes participants with different skill levels and approaches. As a result, we do not expect that everybody will share the same opinion. However, we do expect that disagreement is done respectfully. Additionally, we expect that participants will educate others respectfully. To this end, do not assume anybody else’s level of expertise or knowledge. Do not belittle a lack of information, or insist on unnecessary precision. We are all learning, so afford others—as well as yourself—room to grow.
 
