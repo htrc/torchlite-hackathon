@@ -56,6 +56,7 @@ Like Bookworm, the visualization would graph the use of particular words over ti
 
 <figcaption style="">Bookworm</figcaption>
 
+
 There is also an opportunity to provide other dynamic features that allow you to examine a particular work or alternative ways of displaying the data. For example, an alternative way to view the data could be a bar chart instead of a line graph. A bar chart would allow you to order the chart by time, and ascending, or descending.
 
 ![image](images/bargraph1.png)
@@ -65,7 +66,7 @@ There is also an opportunity to provide other dynamic features that allow you to
 Another possible dynamic element could allow you to click on a bar and see a different view of an individual year. It would show the volumes from that year and how often that term appears in a specific volume. The hierarchical bar chart on Observable is an example of a bar chart that lets you drill down into a specific category: [Hierarchical bar chart / D3 | Observable](https://observablehq.com/@d3/hierarchical-bar-chart?intent=fork)
 
 ![image](images/bargraph3.png)
-<figcaption style="">Hierarchical barch chart</figcaption>
+<figcaption style="">Hierarchical bar chart</figcaption>
 
 ## Extracted Features data points necessary
 ```
