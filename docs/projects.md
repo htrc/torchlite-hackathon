@@ -39,3 +39,49 @@ metadata
 - Code or edit code to limit plotted locations by range of publication dates
 - Optionally: Integrate a publication date timeline and/or publisher data for a more comprensive “pubication data” analysis tool.
 
+# Searching and visualizing specific words in a workset 
+## Use case
+A professor is interested in studying how terminology for human bodies, body systems, biology, and other living systems have been used to describe architecture and buildings. From close reading, we know that mentions and comparisons of architecture/buildings to human bodies, organs or other living systems can be noticed beginning in the earliest work in the Western tradition, Vitruvius’ De Architectura, in which he “puts forth a vision of architecture understood as an appreciation of the human body as its regulating system, based on the “optimal proportions of the human body”. It would be useful to be able to compare the usage of these words over time using a workset comprising volumes specifically about architecture and design.
+
+| Title                   | Publication Place Map |
+| ----------------------------------       | ---  |
+| **visualization type**                       |  bar chart, line chart |
+| **description**                          |  This visualization will plot the use of specific words within a workset, over time.      |
+| **Relevant extracted features field(s)** | `title`, `datePublished`, `tokenPosCount`|
+
+## Description
+Like Bookworm, the visualization would graph the use of particular words over time, but would be restricted to a workset. Since a workset is much smaller than the overall HT corpus, the scale would be smaller than bookworm. Instead of words per million, it could be words per thousand or perhaps just a straight count of the words.
+
+![image](images/bookworm1.png)
+
+<figcaption style="">Bookworm</figcaption>
+
+There is also an opportunity to provide other dynamic features that allow you to examine a particular work or alternative ways of displaying the data. For example, an alternative way to view the data could be a bar chart instead of a line graph. A bar chart would allow you to order the chart by time, and ascending, or descending.
+
+![image](images/bargraph1.png)
+
+![image](images/bargraph2.png)
+
+Another possible dynamic element could allow you to click on a bar and see a different view of an individual year. It would show the volumes from that year and how often that term appears in a specific volume. The hierarchical bar chart on Observable is an example of a bar chart that lets you drill down into a specific category: [Hierarchical bar chart / D3 | Observable](https://observablehq.com/@d3/hierarchical-bar-chart?intent=fork)
+
+![image](images/bargraph2.png)
+<figcaption style="">Hierarchical barch chart</figcaption>
+
+## Extracted Features data points necessary
+```
+metadata
+  title
+  datePublished
+features
+  pages
+    body
+      tokenPosCount
+```
+
+## Tasks
+- Write API call to grab metadata
+- Write API call to get token data
+- Write function to iterate through token data
+- Code a search bar feature
+- Code or edit code for hierarchical bar chart
+- Code any additional interactive features
