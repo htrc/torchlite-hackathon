@@ -11,7 +11,7 @@ All events for Tuesday are taking place in the Chancellor Ballroom, unless noted
 
 **12:00 - 1:00:** Lunch and welcome  
 **1:00 - 1:15:** Break  
-**1:15 - 2:15:** Keynote Address by [Ben Lee](https://ischool.uw.edu/people/faculty/profile/bcgl), Assistant Professor at the University of Washington Information School.  
+**1:15 - 2:15:** Keynote Address by [Ben Lee](https://ischool.uw.edu/people/faculty/profile/bcgl): “[Computing Cultural Heritage: Toward Search and Discovery at Scale using AI](lee.md).”
 **2:15  - 2:45:** Coffee Break  
 **2:45 - 3:30:** Extracted Features and the Extracted Features API (Ryan Dubnicek & Janet Swatscheno)  
 **3:30 - 4:30:** Dashboard, widgets, and notebook s summary and Q&A (John Walsh & Pooja Tippur Shashidhar)  
