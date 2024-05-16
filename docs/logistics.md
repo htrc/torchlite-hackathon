@@ -3,10 +3,9 @@
 # TORCHLITE Hackathon Logistics (**DRAFT**)
 
 ## Venue
-<a href="https://researchpark.illinois.edu/about/amenities/i-hotel-and-conference-center/">The I Hotel and Illinois Conference Center</a>
+<a href="https://researchpark.illinois.edu/about/amenities/i-hotel-and-conference-center/">The I Hotel and Illinois Conference Center</a>: 1900 South 1st St., Champaign, Illinois, 61820
 
-1900 South 1st St.
-Champaign, Illinois, 61820
+Events will take place in the *Chancellor Ballroom* (Tuesday, Wednesday), and in breakrout rooms *Innovation*, *Excellence*, and *Loyalty* (Wednesday, Thursday).  A map of the Conference Center is at (https://stayatthei.com/wp-content/uploads/2023/04/event-map.png).
 
 ## Wi-Fi networks
 * [Eduroam](https://eduroam.org/about/connect-yourself/)
