@@ -8,7 +8,11 @@
 1900 South 1st St.
 Champaign, Illinois, 61820
 
-*More details coming soon*
+## Wi-Fi networks
+* [Eduroam](https://eduroam.org/about/connect-yourself/)
+* * We recommend setting up Eduroam from your home institution _before_ arriving at UIUC!
+* [IllinoisNet_Guest](https://techservices.illinois.edu/visitor-resource-guide/)
+* * Instruction sheets will be available on-site.
 
 ## Getting to Champaign-Urbana
 ### By Air
