@@ -10,10 +10,8 @@ Events will take place in the *Chancellor Ballroom* (Tuesday, Wednesday), and in
 [Conference Center map](https://stayatthei.com/wp-content/uploads/2023/04/event-map.png)
 
 ## Wi-Fi networks
-* [Eduroam](https://eduroam.org/about/connect-yourself/)
-* * We recommend setting up Eduroam from your home institution _before_ arriving at UIUC!
-* [IllinoisNet_Guest](https://techservices.illinois.edu/visitor-resource-guide/)
-* * Instruction sheets will be available on-site.
+* [Eduroam](https://eduroam.org/about/connect-yourself/): We recommend setting up Eduroam from your home institution _before_ arriving at UIUC.
+* [IllinoisNet_Guest](https://techservices.illinois.edu/visitor-resource-guide/): Instruction sheets will be available on-site.
 
 ## Getting to Champaign-Urbana
 ### By Air
