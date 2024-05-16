@@ -7,9 +7,8 @@
 **Central Standard Time** 
 
 ## Tuesday, May 21, 2024
-All events for Tuesday are taking place in the Chancellor Ballroom, unless noted otherwise.  
-
-[Venue map](https://stayatthei.com/wp-content/uploads/2023/04/event-map.png)
+All events for Tuesday are taking place in the Chancellor Ballroom, unless noted otherwise. 
+[Conference Center map](https://stayatthei.com/wp-content/uploads/2023/04/event-map.png)
 
 **12:00 - 1:00:** Lunch and welcome  
 **1:00 - 1:15:** Break  
