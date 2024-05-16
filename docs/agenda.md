@@ -7,7 +7,9 @@
 **Central Standard Time** 
 
 ## Tuesday, May 21, 2024
-All events for Tuesday are taking place in the Chancellor Ballroom, unless noted otherwise.
+All events for Tuesday are taking place in the Chancellor Ballroom, unless noted otherwise.  
+
+[Venue map](https://stayatthei.com/wp-content/uploads/2023/04/event-map.png)
 
 **12:00 - 1:00:** Lunch and welcome  
 **1:00 - 1:15:** Break  
@@ -21,7 +23,7 @@ All events for Tuesday are taking place in the Chancellor Ballroom, unless noted
 **7:00:** Symposium at Houlihan’s *(optional social time)*
 
 ## Wednesday, May 22, 2024
-Meals are taking place in the Chancellor Ballroom. The ballroom, along with smaller rooms will be available for group work/hacking until 11pm.  
+Meals are taking place in the Chancellor Ballroom. The ballroom, along with smaller rooms (Innovation, Excellence, and Loyalty) will be available for group work/hacking until 11pm.  
 
 **7:00 - 8:30:** Breakfast  
 **8:00 - 9:00:** Welcome, logistics for the day  
@@ -34,7 +36,7 @@ Meals are taking place in the Chancellor Ballroom. The ballroom, along with smal
 **7:00 - 11:00:** After-dinner hacking, with pizza at 9pm *(optional)*  
 
 ## Thursday, May 23, 2024
-All events are taking place in the Innovation room. The Innovation room, along with other rooms will be available for group work/hacking.
+All events are taking place in the Innovation room. The Innovation room, along with Excellence and Loyalty, will be available for group work/hacking.
 
 **7:00 - 8:30:** Breakfast  
 **8:30 - 9:00:** Welcome, logistics for the day  
