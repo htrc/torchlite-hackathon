@@ -32,7 +32,9 @@ Meals are taking place in the Chancellor Ballroom. The ballroom, along with smal
 **1:30 - 4:30:** Hacking  
 **4:30 - 5:00:** Preliminary Reporting  
 **6:00 - 7:00:** Dinner  
-**7:00 - 11:00:** After-dinner hacking, with pizza at 9pm *(optional)*  
+**7:00 - 11:00:** After-dinner hacking, with pizza at 9pm *(optional)* 
+
+_User testing, led by Jenny Christie and Janet Swatscheno, will be held throughout the day._
 
 ## Thursday, May 23, 2024
 All events are taking place in the Innovation room. The Innovation room, along with Excellence and Loyalty, will be available for group work/hacking.
