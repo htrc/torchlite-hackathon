@@ -1,4 +1,6 @@
-We are excited to see what ideas attendees have for potential projects to work on during the hackathon. While we hope to really encourage and cultivate participants' own creative projects, we also recognize that first time hackers may be overwhelmed when it comes time to finding a project to work on. For that reason, we've clearly articulated a few potential projects, which HTRC staff will lead and participants can join.
+{% include header.html %}
+
+We are excited to see what ideas attendees have for potential projects to work on during the hackathon. While we hope to encourage and cultivate participants' own creative projects, we also recognize that first time hackers may be overwhelmed when it comes time to finding a project to work on. For that reason, we've clearly articulated a few potential projects, which HTRC staff will lead and participants can join.
 
 
 # Publication Place Map
