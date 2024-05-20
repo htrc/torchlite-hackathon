@@ -10,14 +10,14 @@
 All events for Tuesday are taking place in the Chancellor Ballroom, unless noted otherwise. 
 [Conference Center map](https://stayatthei.com/wp-content/uploads/2023/04/event-map.png)
 
-**12:00 - 1:00:** Lunch and welcome (Stephen Downie)
+**12:00 - 1:00:** Lunch and welcome (Stephen Downie)  
 **1:00 - 1:15:** Break  
 **1:15 - 2:15:** Keynote Address by [Ben Lee](https://ischool.uw.edu/people/faculty/profile/bcgl): “[Computing Cultural Heritage: Toward Search and Discovery at Scale using AI](lee.md).” ([slides](https://docs.google.com/presentation/d/1KotcSJCFblXxgzQEJZ6q8WhVA8lAry2OWwyRl_8C_gM/edit?usp=sharing))  
 **2:15  - 2:45:** Coffee Break  
 **2:45 - 3:30:** Extracted Features and the Extracted Features API (Ryan Dubnicek & Janet Swatscheno)  
 **3:30 - 4:30:** Dashboard, widgets, notebook, Hackathon Handbook, and Q&A (John Walsh, Pooja Tippur Shashidhar, Manika Lamba)  
 **4:30 - 4:45:** Break  
-**4:45 - 6:00:** Wrap up (Glen Layne-Worthey), user testing (Jenny Christie), team building & logistics for Day 2 (Janet Swatscheno) 
+**4:45 - 6:00:** Wrap up (Glen Layne-Worthey), user testing (Jenny Christie), team building & logistics for Day 2 (Janet Swatscheno)  
 **6:00 - 7:00:** Dinner  
 **7:00:** Symposium at Houlihan’s *(optional social time)*
 
