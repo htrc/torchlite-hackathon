@@ -91,3 +91,35 @@ features
 - Code a search bar feature
 - Code or edit code for hierarchical bar chart
 - Code any additional interactive features
+
+# Comparing the relative proportions of parts of speech across a single volume
+## Use case 
+A researcher wants to understand and demonstrate whether the beginning of a novel – often assumed to be more descriptive than narrative – is characterized by a greater proportion of adjectives than verbs than the middle or the end.
+Description
+
+One possible way to investigate this question is to calculate and compare the number of particular parts of speech (or categories of parts of speech – e.g., adjectives of all types, as compared with nouns and pronouns) on a particular page.  These could be represented as percentages of the total number of words on that page, and graphed as a percent stacked bar chart.  Here’s an example of this sort of chart, written in .d3:
+
+![image](images/stacked_bar.png)
+<figcaption style="">https://observablehq.com/@xianwu/stacked-bar-chart</figcaption>
+
+In our case, the y-axis could be stacked bars adding up to 100%, and the x-axis could be pages (or aggregated page ranges, e.g., a single bar could represent a certain number of pages, or a certain percentage of the whole volume).
+
+## Extracted Features and other data required
+```
+features
+	pages
+		seq
+body
+	tokenPosCount
+
+Part-of-speech tags as described by the Penn Tree Bank – e.g., JJ, JJR, and JJS are all types of adjectives.
+```
+
+## Tasks
+- Write API call to get token data from a single volume
+- Write function to get the page sequence
+- Write function to add the occurrences of each desired part-of-speech bit of the token data for a each page
+- Write function aggregating these sums into the desired number of pages
+- Write function (or hard-code) mapping the part-of-speech tag to desired category (e.g., all adjectives)
+- Code an appropriate bar plot to visualize the aggregated counts for each grammatical category, across each page range of the desired size.
+
