@@ -41,8 +41,8 @@ HTRC will determine what further action may be necessary, including potentially 
 
 HTRC Staff Contact Information:
 - General Help Email: htrc-help@hathitrust.org
-- Janet Swatscheno: jswatsch@hathitrust.org; ‪Text or call: (872) 265-2149‬
-- Glen Layne-Worthey: gworthey@illinois.edu;
+- Janet Swatscheno: jswatsch@hathitrust.org; ‪text or call: (872) 265-2149‬
+- Glen Layne-Worthey: gworthey@illinois.edu; text or call: (650) 213-6759
 
 
 {% include footer.html %}
