@@ -15,7 +15,7 @@ All events for Tuesday are taking place in the Chancellor Ballroom, unless noted
 **1:15 - 2:15:** Keynote Address by [Ben Lee](https://ischool.uw.edu/people/faculty/profile/bcgl): “[Computing Cultural Heritage: Toward Search and Discovery at Scale using AI](lee.md).” ([slides](https://docs.google.com/presentation/d/1KotcSJCFblXxgzQEJZ6q8WhVA8lAry2OWwyRl_8C_gM/edit?usp=sharing))  
 **2:15  - 2:45:** Coffee Break  
 **2:45 - 3:30:** Extracted Features and the Extracted Features API (Ryan Dubnicek & Janet Swatscheno)  
-**3:30 - 4:30:** Dashboard, Hackathon Handbook, widgets, notebooks, and Q&A (John Walsh, Manika Lamba, Sriram Reddy Pidaparthi, Pooja Tippur Shashidhar)  
+**3:30 - 4:30:** The TORCHLITE Dashboard (John Walsh); the Hackathon Handbook (Manika Lamba); widgets & notebooks (Sriram Reddy Pidaparthi & Pooja Tippur Shashidhar); Q&A
 **4:30 - 4:45:** Break  
 **4:45 - 6:00:** Wrap up (Glen Layne-Worthey), user testing (Jenny Christie), team building & logistics for Day 2 (Janet Swatscheno)  
 **6:00 - 7:00:** Dinner  
