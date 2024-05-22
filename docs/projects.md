@@ -68,7 +68,7 @@ There is also an opportunity to provide other dynamic features that allow you to
 
 ![image](images/bargraph2.png)
 
-Another possible dynamic element could allow you to click on a bar and see a different view of an individual year. It would show the volumes from that year and how often that term appears in a specific volume. The hierarchical bar chart on Observable is an example of a bar chart that lets you drill down into a specific category: [Hierarchical bar chart / D3 | Observable](https://observablehq.com/@d3/hierarchical-bar-chart?intent=fork)
+Another possible dynamic element could allow you to click on a bar and see a different view of an individual year. It would show the volumes from that year and how often that term appears in a specific volume. The hierarchical bar chart on Observable is an example of a bar chart that lets you drill down into a specific category: [Hierarchical bar chart / D3 \| Observable](https://observablehq.com/@d3/hierarchical-bar-chart?intent=fork)
 
 ![image](images/bargraph3.png)
 <figcaption style="">Hierarchical bar chart</figcaption>
