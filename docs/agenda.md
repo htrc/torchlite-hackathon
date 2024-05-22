@@ -31,7 +31,7 @@ Meals are taking place in the Chancellor Ballroom. The ballroom, along with smal
 **1:00 - 1:30:** Group check-in  
 **1:30 - 4:30:** Hacking  
 **4:30 - 5:00:** Preliminary Reporting  
-**6:00 - 7:00:** Hacking  
+**5:00 - 6:00:** Hacking  
 **6:00 - 7:00:** Dinner  
 **7:00 - 11:00:** After-dinner hacking, with pizza at 9pm *(optional)* 
 
