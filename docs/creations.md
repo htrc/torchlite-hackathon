@@ -9,6 +9,8 @@ Jupyter notebook for viewing and analyzing publication information with HTRC TOR
 ### publication-info.ipynb
 Visualizes publication place on a choropleth map.
 
+![images/pubplace.svg]
+
 ### pubDate.ipynb
 Lists volumes (with title, publisher, and publication place) by publication date.
 
