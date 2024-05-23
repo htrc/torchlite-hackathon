@@ -1,3 +1,4 @@
+{% include header.html %}
 # Hackathon Creations
 See the list below for some of the work created during the HTRC TORCHLITE Hackathon!
 
@@ -99,6 +100,16 @@ The primary goals of this hackathon project are 1) to develop Python code for mo
 
 <https://github.com/bcglee/HathiTrust-MARC-monitoring>
 
+---
+## Find and visualize relevant pages in a book
+This is a notebook that prototypes an application to find and visualize the most relevant pages in a book that match a query string. 
 
+In the HathiTrust Digital Library, a user cannot generally access the full text of books not in the public domain; query results for such books include only a catalog record and a message advising that the book is not public. Instead, we could present useful additional information about the contents of the book without showing the full text -- for example:
+- a visualization of the most relevant pages (and a comparison of their relevancy) based on the query string
+- a word cloud of the other terms in the full text of the book that are most relevant to query
+
+![project screenshot](images/words_relevant_pages.png)
+
+<https://github.com/liseli/torchlite_hackathon>
 
 {% include footer.html %}
