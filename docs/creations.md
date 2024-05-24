@@ -93,6 +93,8 @@ Our code visualizes the most distinctive terms by volume in a wordcloud but also
 
 While we were working specifically with presidential papers, we also tested our code with the Toni Morrison dataset and produced what appear to be meaningful results.
 
+![project screenshot](images/presidents.png)
+
 <https://github.com/igwink/HTRC_Hackathon_Presidents>
 
 ---
