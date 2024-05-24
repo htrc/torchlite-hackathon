@@ -39,7 +39,7 @@ A proper and common noun wordcloud generator for the HathiTrust Research Center'
 
 Many digital humanities scholars may be familiar with Bookworm+HTRC or the Google N-gram viewer. Both tools allow users to search for specific tokens (words) across a large text dataset and then graphs the results (words per million) in the form of a line graph. While these are great tools for visualizing the use of words on a large scale, some users may be interested in doing a similar analysis, using a select corpus.
 
-![project screenshot](images/searchterm.png)
+![project screenshot](images/searchterm.jpg)
 
 <https://observablehq.com/@jswatsch/search-a-term-across-an-htrc-workset>
 
