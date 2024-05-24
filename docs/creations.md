@@ -102,7 +102,10 @@ While we were working specifically with presidential papers, we also tested our 
 ## HathiTrust-MARC-monitoring
 The primary goals of this hackathon project are 1) to develop Python code for monitoring updates to MARC records in HathiTrust, and 2) to build an exploratory notebook to enable quick monitoring of this.
 
-<https://github.com/bcglee/HathiTrust-MARC-monitoring>
+![project screenshot](images/updates.png)
+
+<https://github.com/bcglee/HathiTrust-MARC-monitoring>  
+<https://observablehq.com/d/ec917e4cc67cba47>
 
 ---
 ## Find and visualize relevant pages in a book
