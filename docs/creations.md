@@ -119,4 +119,17 @@ In the HathiTrust Digital Library, a user cannot generally access the full text 
 
 <https://github.com/liseli/torchlite_hackathon>
 
+---
+## Hathi Trust Documents Used in Education
+
+### Project goals
+
+1. Determine how Hathi Trust books are used in Syllabi for educational purposes
+2. Determine what academic domains are using the documents
+3. Deteremine how difficult the documents are to read
+
+![project screenshot](images/ht_education.png)
+
+<https://github.com/tdbowman/hathitrust_hackathon/>
+
 {% include footer.html %}
